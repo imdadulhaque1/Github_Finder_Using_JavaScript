@@ -1,5 +1,5 @@
 # Github_Finder_Using_JavaScript
-This is GitHub Finder App using JavaScript. In this application, we can find any github users profile using username and when user search incorrect username then it will be shown as "Not Found !". Please [CLICK HERE](https://imdadulhaque1.github.io/Github_Finder_Using_JavaScript/) to visit the GitHub Finder App.
+This is GitHub Finder App using JavaScript. In this application, we can find any github users profile using username and when user search incorrect username then it will be shown as " User Not Found !". Please [CLICK HERE](https://imdadulhaque1.github.io/Github_Finder_Using_JavaScript/) to visit the GitHub Finder App.
 
 # Using Tools:
 (i) HTML
