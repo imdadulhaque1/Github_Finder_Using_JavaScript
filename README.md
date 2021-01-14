@@ -3,7 +3,9 @@ This is GitHub Finder App using JavaScript. In this application, we can find any
 
 # Using Tools:
 (i) HTML
+
 (ii) CSS
+
 (iii) JavaScript
 
 # GitHub Finder App Demo
@@ -15,4 +17,4 @@ This is GitHub Finder App using JavaScript. In this application, we can find any
 # After Search Correct Username
 ![Screenshot from 2021-01-15 04-38-40](https://user-images.githubusercontent.com/45633928/104658549-3fa5cb00-56ed-11eb-9dd9-0cef5ead25a1.png)
 
-#END !
+# END !
